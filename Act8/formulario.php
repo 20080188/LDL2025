@@ -10,7 +10,7 @@
         <h1 class="text-2xl font-bold text-center text-gray-800 mb-6">Tu Serie Preferida</h1>
         
         <label for="serie" class="block text-gray-700 font-semibold mb-2">Nombre de la serie:</label>
-        <input type="text" id="serie" name="serie"
+        <input type="text" id="serie" name="serie" required
                class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
         
         <div class="flex justify-between mt-6">
